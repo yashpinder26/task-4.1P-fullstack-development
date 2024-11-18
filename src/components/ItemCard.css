@@ -13,9 +13,9 @@
 }
 
 .item-card img {
-    width: 100%; /* Adjusted to make the image larger within the card */
-    height: auto; /* Maintain aspect ratio */
-    max-height: 200px; /* Limit maximum height to keep the layout consistent */
+    width: 100%; 
+    height: auto; 
+    max-height: 200px; 
     object-fit: cover;
     border-radius: 4px;
     margin-bottom: 15px;
